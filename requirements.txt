@@ -16,3 +16,6 @@ Fabric==1.4.3
 ssh==1.7.14
 pycrypto==2.6
 python-memcached==1.48
+requests==0.13.0
+beautifulsoup4==4.1.3
+xmltodict==0.4.6
